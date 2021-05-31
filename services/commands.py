@@ -1,6 +1,5 @@
-r_positions = {"N": "E", "E": "S", "S": "W", "W": "N"}
-
 l_positions = {"N": "W", "W": "S", "S": "E", "E": "N"}
+r_positions = {"N": "E", "E": "S", "S": "W", "W": "N"}
 
 
 def turn_left(pos: str):
